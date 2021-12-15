@@ -17,9 +17,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Zrobiliśmy prostą grę w węża. Grę można załadować na każdej przeglądarce, poruszanie się jest klasycznie strzałkami. Są pewne niedociągnięcia ale to wiadomo kiedyś się poprawi.
 Zaangażowane osoby
-https://mcowska.github.io/
-https://ksuroweczka.github.io/
-https://werkah.github.io/
-https://lukzawadzki.github.io
+https://mcowska.github.io/  
+https://ksuroweczka.github.io/  
+https://werkah.github.io/  
+https://lukzawadzki.github.io  
 ### Contact
 Use messenger/whatsapp
