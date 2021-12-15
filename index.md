@@ -9,10 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 - Kulki
-- Snake
 - podpięcie stripa 
 
 ```
+
+### Projekt na narzędzia infomatyczne 
+
+Zrobiliśmy prostą grę w węża. Grę można załadować na każdej przeglądarce, poruszanie się jest klasycznie strzałkami. Są pewne niedociągnięcia ale to wiadomo kiedyś się poprawi.
 
 ### Contact
 Use messenger/whatsapp
